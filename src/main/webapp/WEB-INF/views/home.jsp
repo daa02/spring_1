@@ -9,6 +9,7 @@
 <h1>
 	Hello world!  Spring!
 </h1>
+	<h3>GitHub</h3>
 
 <img src="./etc/images/iu1.jpg">
 
